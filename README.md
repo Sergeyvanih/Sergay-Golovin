@@ -3,3 +3,5 @@ https://docs.google.com/document/d/15zl1xFFROx5ooS0nwrQ4c2AGmWIAT2977pm4msbbF4A/
 Документооборот:
 https://colab.research.google.com/drive/1wk1NO-OcxXTp3UGCpGDgbGjENKk7YeOV#scrollTo=jEFkKxTngZOW
 https://drive.google.com/drive/folders/17PT_0nLpW6RgLOmPloX_HTzXCtwKeBLy?usp=drive_link
+КОЛАБ:
+https://drive.google.com/drive/folders/1f4n4CadD7U8OH4S7royuYumDKSZr063n?usp=sharing
